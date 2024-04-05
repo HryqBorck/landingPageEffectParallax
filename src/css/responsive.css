@@ -1,0 +1,19 @@
+@media (max-width:668px) {
+    section.paragrafo {
+        padding: 8px;
+    }
+
+    section.paragrafo p{
+        font-size: 14px;
+    }
+    
+    section.paragrafo h2{
+        padding-bottom: 8px;
+    }
+}
+
+@media (max-width:420px) {
+    section.paragrafo {
+        height: 350px;
+    }
+}
